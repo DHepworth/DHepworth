@@ -8,5 +8,6 @@ I enjoy photography, writing handwritten letters, and collecting enamel pins. Yo
 
 * 💻 **Apple MacBook Air** (M1, 2020)
 * 🖥 **Apple Cinema Display** (20-inch)
+* 📱 **Apple iPad** (9th Generation)
 * 📱 **Apple iPhone** SE (2020)
 * 📷 **Canon EOS 5D** Mark II
