@@ -9,7 +9,6 @@ I enjoy photography, writing handwritten letters, and collecting enamel pins.
 - [Last.fm](https://www.last.fm/user/medhead)
 - [LinkedIn](https://www.linkedin.com/in/davidebhepworth)
 - [Mastodon](https://allthingstech.social/@dhepworth)
-- [Tumblr](https://www.tumblr.com/blog/davidebhepworth)
 - [VSCO](https://vsco.co/dhpersonal/gallery)
 
 ## My gear
