@@ -4,13 +4,6 @@ I am a front-end designer learning how to also do front-end development. I start
 
 I enjoy photography, writing handwritten letters, and collecting enamel pins.
 
-## Find me online
-
-- [Last.fm](https://www.last.fm/user/medhead)
-- [LinkedIn](https://www.linkedin.com/in/davidebhepworth)
-- [Mastodon](https://allthingstech.social/@dhepworth)
-- [VSCO](https://vsco.co/dhpersonal/gallery)
-
 ## My gear
 
 - 💻 **Apple MacBook Air** (M1, 2020)
