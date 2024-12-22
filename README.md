@@ -7,7 +7,6 @@ I enjoy photography, writing handwritten letters, and collecting enamel pins.
 ## My gear
 
 - 💻 **Apple MacBook Air** (M1, 2020)
-- 📱 **Apple iPad** (9th Generation)
 - 📱 **Apple iPhone** 13 mini
 - 📷 **Canon EOS 5D** Mark II
 - 📷 **Canon PowerShot** SX150 IS
