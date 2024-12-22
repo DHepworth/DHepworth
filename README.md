@@ -4,6 +4,8 @@ I am a front-end developer with a focus on UX. I started my path in front-end wo
 
 I enjoy photography, writing handwritten letters, and collecting enamel pins.
 
+Check out my website at [dhepworth.com](https://dhepworth.com)
+
 ## My gear
 
 - 💻 **Apple MacBook Air** (M1, 2020)
