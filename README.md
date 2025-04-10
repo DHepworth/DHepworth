@@ -1,4 +1,4 @@
-![A stylized image of a man in a coat staring to the right of frame while distorted numbers and letters surround his face in seemingly random fashion.](_MG_6991_small.jpg)
+<img src="https://github.com/DHepworth/DHepworth/raw/main/_MG_6991_small.jpg" alt="A stylized image of a man in a coat staring to the right of frame while distorted numbers and letters surround his face in seemingly random fashion." height="333" width="500" />
 
 # Hi! Thanks for visiting.
 
