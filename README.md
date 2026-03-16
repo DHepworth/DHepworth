@@ -4,6 +4,8 @@ I am a front-end developer with a focus on UX. I started my path in front-end wo
 
 I enjoy photography, writing handwritten letters, and collecting enamel pins.
 
+[🙅🏼🤖](https://anthonymoser.github.io/writing/ai/haterdom/2025/08/26/i-am-an-ai-hater.html)
+
 ## My gear
 
 - 💻 **Apple MacBook Air** (M1, 2020)
